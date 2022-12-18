@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ONEONUORA FROM NIGERIA
+- 👀 I’m interested in ..software development
+- 🌱 I’m currently learning ...python,JavaScript, C++, Solidity, Rust, Vyper, Web3
+- 💞️ I’m looking to collaborate on any Front-End & Back-End Projects.
+- 📫 How to reach me; monweebube44@gmail.com or onuoraebube44@gmail.com
