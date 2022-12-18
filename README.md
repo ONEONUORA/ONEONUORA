@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ONEONUORA FROM NIGERIA
+- 👋 Hi, I’m ONUORA EBUBE EBUKA FROM NIGERIA
 - 👀 I’m interested in ..software development
 - 🌱 I’m currently learning ...python,JavaScript, C++, Solidity, Rust, Vyper, Web3
 - 💞️ I’m looking to collaborate on any Front-End & Back-End Projects.
