@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ONUORA EBUBE EBUKA FROM NIGERIA
-- 👀 I’m interested in ..software development and machine learning
-- 🌱 I’m currently learning ...python,JavaScript, C++, C, Django, node.js
-- 💞️ I’m looking to collaborate on any Front-End & Back-End Projects and machine learning.
+- 👀 I’m interested in ..software Engineering
+- 🌱 I’m currently learning ...Html,CSS,JavaScript, React, node.js
+- 💞️ I’m looking to collaborate on any Front-End & Back-End Projects.
 - 📫 How to reach me; monweebube44@gmail.com or onuoraebube44@gmail.com
