@@ -1,5 +1,5 @@
-- 👋 Hi, I’m ONUORA EBUBE EBUKA FROM NIGERIA
+- 👋 Hi, I’m Onuora Ebube Ebuka from Nigeria
 - 👀 I’m interested in ..software Development
-- 🌱 I’m currently learning ...Html,CSS,JavaScript, React, Node.js
+- 🌱 I’m currently learning ...Html,CSS, Bootstrap, JavaScript, React, Node.js
 - 💞️ I’m looking to collaborate on any Front-End & Back-End Projects.
 - 📫 How to reach me; monweebube44@gmail.com or onuoraebube44@gmail.com
