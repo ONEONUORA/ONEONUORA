@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Onuora Ebube Ebuka from Nigeria
+- A MERN Stack Developer
 - 👀 I’m interested in ..software Development
 - 🌱 I’m currently learning ...Html,CSS, Bootstrap, JavaScript, React, Node.js
 - 💞️ I’m looking to collaborate on any Front-End & Back-End Projects.
